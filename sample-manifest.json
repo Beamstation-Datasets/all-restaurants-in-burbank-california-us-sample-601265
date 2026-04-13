@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f65cca29-318e-441d-b928-6dbf48f12352",
+  "id_short": 601265,
+  "published_at": "2026-04-13T19:53:30Z",
+  "repo_name": "all-restaurants-in-burbank-california-us-sample-601265",
+  "sample_asset_name": "beamstation_601265_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/601265/beamstation_601265_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 39,
+  "sample_sha256": "d288f6b28e88f2a21847f75b523c2d7f69f6f5532ed07a8fa18c88a7a77737c1",
+  "sample_size_bytes": 151093,
+  "total_records": 399
+}
