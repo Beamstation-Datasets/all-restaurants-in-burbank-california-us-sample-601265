@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 399 records |
 | Free sample size | 39 records (9.77%) |
-| Last export | 2026-04-07T13:24:38.428784+00:00 |
+| Last export | 2026-04-14T20:31:00.694194+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-burbank-california-us-sample-601265/releases/download/sample-latest/beamstation_601265_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
