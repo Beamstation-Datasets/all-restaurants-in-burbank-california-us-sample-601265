@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Burbank, California with a population of over 107k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Burbank, California, US",
-  "export_job_id": "f65cca29-318e-441d-b928-6dbf48f12352",
+  "export_job_id": "3a60ee39-47c6-43a7-b185-3d1c36fca553",
   "github_org": "Beamstation-Datasets",
   "id_short": 601265,
   "location_name": "Burbank",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/601265/beamstation_601265_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.77,
   "sample_records": 39,
-  "sample_sha256": "d288f6b28e88f2a21847f75b523c2d7f69f6f5532ed07a8fa18c88a7a77737c1",
-  "sample_size_bytes": 151093,
+  "sample_sha256": "6b45c468cde34ebdc8a34c14ce33a172c31ab6952bc8139c8737c8f9d764af51",
+  "sample_size_bytes": 135819,
   "total_records": 399,
-  "updated_at": "2026-04-07T13:24:38.428784+00:00"
+  "updated_at": "2026-04-14T20:31:00.694194+00:00"
 }
